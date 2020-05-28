@@ -1,5 +1,5 @@
 {
-    "name": "uztranslit",
+    "name": "adizbek/uztranslit",
     "description": "Uzbek-Latin transliteration",
     "license": "MIT",
     "keywords": ["php", "translit"],
